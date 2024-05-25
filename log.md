@@ -12,14 +12,15 @@
 3. https://replit.com/@AaronFleming/Day-1-Project-Band-Name-Generator
 4. https://replit.com/@AaronFleming/Day-2-Tip-Calculator
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: May 24, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Reviewed conditional statements, type conversion, and format strings. Completed the Day 2 lessons and did the Day 3 text adventure project before going through the lessons.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I am pretty good at figuring out the logic behind various coding problems, it is just going to take some time to re-learn the Python syntax since I haven't programmed in quite a while.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**:
+1. https://replit.com/@AaronFleming/Day-2-Data-Types
+2. https://replit.com/@AaronFleming/Day-3-Treasure-Island
 
 
 ### Day 1: June 27, Monday
