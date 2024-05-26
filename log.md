@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 23, 2024
+### Day 0: May 23, 2024 - Thursday
 
 **Today's Progress**: Started "100 Days of Code: The Complete Python Pro Bootcamp" on Udemy
 
@@ -12,7 +12,7 @@
 3. https://replit.com/@AaronFleming/Day-1-Project-Band-Name-Generator
 4. https://replit.com/@AaronFleming/Day-2-Tip-Calculator
 
-### Day 1: May 24, 2024
+### Day 1: May 24, 2024 - Friday
 
 **Today's Progress**: Reviewed conditional statements, type conversion, and format strings. Completed the Day 2 lessons and did the Day 3 text adventure project before going through the lessons.
 
@@ -23,12 +23,28 @@
 2. https://replit.com/@AaronFleming/Day-3-Treasure-Island
 
 
-### Day 1: June 27, Monday
+### Day 2: May 25, 2024 - Saturday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed lessons from Days 3, 4, and 5, and completed the projects for Days 4, 5, and 6.
+Topics reviewed:
+- conditional statements
+- lists
+- random module
+- for loops and while loops
+- range() function
+  
+Mini Projects completed:
+- Rock-Paper-Scissors game
+- Password generator
+- Robot maze escape
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've been able to complete the end of day projects before taking the lessons for the day, which shows I am still reviewing topics that I previously knew. It is encouraging that I am picking it back up so quickly.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://replit.com/@AaronFleming/Day-3-Roller-Coaster-Tickets
+2. https://replit.com/@AaronFleming/Day-4-Random
+3. https://replit.com/@AaronFleming/Day-4-Rock-Paper-Scissors
+4. https://replit.com/@AaronFleming/Day-5-Password-Generator
+5. [Reborg's World] https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
+
+
