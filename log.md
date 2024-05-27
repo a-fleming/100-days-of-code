@@ -48,3 +48,16 @@ Mini Projects completed:
 5. [Reborg's World] https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json
 
 
+### Day 3: May 26, 2024 - Sunday
+
+**Today's Progress**: Completed remaining lessons from Day6, and completed additional practice problems on Reeborg's World.
+
+Topics reviewed:
+- conditional statements
+- while loops
+- functions
+
+**Thoughts** Didn't get nearly as much time to go through lessons and practice problems as yesterday. Solved all of the Hurdle problems, and realized my solution for the Maze problem could be used for the Hurdles as well.
+
+**Link(s) to work**
+1. https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json
