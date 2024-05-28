@@ -50,14 +50,34 @@ Mini Projects completed:
 
 ### Day 3: May 26, 2024 - Sunday
 
-**Today's Progress**: Completed remaining lessons from Day6, and completed additional practice problems on Reeborg's World.
+**Today's Progress**: Completed remaining lessons from Day 6, and completed additional practice problems on Reeborg's World.
 
 Topics reviewed:
 - conditional statements
 - while loops
 - functions
 
-**Thoughts** Didn't get nearly as much time to go through lessons and practice problems as yesterday. Solved all of the Hurdle problems, and realized my solution for the Maze problem could be used for the Hurdles as well.
+**Thoughts**: Didn't get nearly as much time to go through lessons and practice problems as yesterday. Solved all of the Hurdle problems, and realized my solution for the Maze problem could be used for the Hurdles as well.
 
 **Link(s) to work**
 1. https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json
+
+
+### Day 4: May 27, 2024 - Monday
+
+**Today's Progress**: Completed lessons and projects from Days 7 and 8.
+Topics reviewed:
+- functions (with positional arguments and with keyword arguments)
+- creating modules
+- importing modules
+- ASCII art
+  
+Mini Projects completed:
+- Hangman
+- Caeser cipher (encode/decode)
+
+**Thoughts**: The logic behind the projects was pretty straightforward. The user interface elements and adding sanitization to areas with user input made the projects take a bit longer.
+
+**Link(s) to work**
+1. https://replit.com/@AaronFleming/Day-7-Hangman
+2. https://replit.com/@AaronFleming/Day-8-Caesar-Cipher
