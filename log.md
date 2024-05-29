@@ -81,3 +81,40 @@ Mini Projects completed:
 **Link(s) to work**
 1. https://replit.com/@AaronFleming/Day-7-Hangman
 2. https://replit.com/@AaronFleming/Day-8-Caesar-Cipher
+
+
+### Day 5: May 28, 2024 - Tuesday
+
+**Today's Progress**: Completed lessons and project from Day 9. Solved additional Reeborg's World puzzles.
+Topics reviewed:
+- dictionaries
+- nesting lists and dictionaries
+- input validation
+
+Reeborg's World puzzles solved:
+- Home 1
+- Home 2
+- Home 3
+- Home 4
+- Around 1
+- Around 1 - variable
+- Around 1 - apple
+- Around 2
+- Around 3
+- Around 4
+- Center 1
+- Center 2
+- Harvest 1
+- Harvest 2
+
+Mini Projects completed:
+- Caesar Cipher (improved from Day 8)
+- Secret Bid Auction
+
+**Thoughts**: Reeborg's World is a pretty fun way to practice various coding concepts and see the code in action. I would definitely recommend it to beginners (even kids). The Secret Bid Auction was a very easy project, so I extended it to add input validation, and included functionality to detect tie bids and list out all of the tied winners.  
+
+**Link(s) to work**
+1. https://replit.com/@AaronFleming/Day-8-Caesar-Cipher
+2. https://replit.com/@AaronFleming/Day-9-Dictionaries
+3. https://replit.com/@AaronFleming/Day-9-Project-Secret-Auction
+4. https://reeborg.ca/reeborg.html
