@@ -118,3 +118,20 @@ Mini Projects completed:
 2. https://replit.com/@AaronFleming/Day-9-Dictionaries
 3. https://replit.com/@AaronFleming/Day-9-Project-Secret-Auction
 4. https://reeborg.ca/reeborg.html
+
+
+### Day 6: May 29, 2024 - Wednesday
+
+**Today's Progress**: Completed half of the lessons and the project from Day 10.
+Topics reviewed:
+- functions (with returns)
+- eval()
+- modules
+
+Mini Projects completed:
+- Calculator
+
+**Thoughts**: Went through some lessons at the beginning of the day, but didn't get much opportunity to program. I was able to complete the Calculator project though.
+
+**Link(s) to work**
+1. https://replit.com/@AaronFleming/Day-10-Calculator
