@@ -135,3 +135,26 @@ Mini Projects completed:
 
 **Link(s) to work**
 1. https://replit.com/@AaronFleming/Day-10-Calculator
+
+
+### Day 7: May 30, 2024 - Thursday
+
+**Today's Progress**: Completed Blackjack project (Capstone #1) for Day 11.
+Topics reviewed:
+- lists
+- functions
+- random module
+- type conversions
+- input sanitization
+- while loops
+
+Capstone Project completed:
+- Blackjack
+- --> added tracking of win/lose/draw statistics
+- --> added bankroll and betting
+- --> added realistic deck with removal of cards and shuffling
+
+**Thoughts**: The Blackjack project was really fun, but fairly easy. I added a lot of extra functionality to challenge myself and make it more realistic and enjoyable.
+
+**Link(s) to work**
+1. https://replit.com/@AaronFleming/Day-11-Blackjack-Capstone-1#main.py
