@@ -160,7 +160,7 @@ Capstone Project completed:
 1. https://replit.com/@AaronFleming/Day-11-Blackjack-Capstone-1
    
 
-### Day 8: May 31, 2024 - Fridayday
+### Day 8: May 31, 2024 - Friday
 
 **Today's Progress**: Completed lessons from Days 12, 13, and 14, and completed projects from Days 12 and 14.
 Topics reviewed:
