@@ -157,4 +157,28 @@ Capstone Project completed:
 **Thoughts**: The Blackjack project was really fun, but fairly easy. I added a lot of extra functionality to challenge myself and make it more realistic and enjoyable.
 
 **Link(s) to work**
-1. https://replit.com/@AaronFleming/Day-11-Blackjack-Capstone-1#main.py
+1. https://replit.com/@AaronFleming/Day-11-Blackjack-Capstone-1
+   
+
+### Day 8: May 31, 2024 - Fridayday
+
+**Today's Progress**: Completed lessons from Days 12, 13, and 14, and completed projects from Days 12 and 14.
+Topics reviewed:
+- debugging/debuggers
+- random module
+- ternary operator
+- while loops
+- format strings
+- functions (with named parameters)
+- dictionaries
+
+Mini Projects completed:
+- Guess the Number game
+- Higher or Lower game
+
+**Thoughts**: Number Guessing game and Higher or Lower game were both very easy to implement without needing to make an outline or flow chart. They each took less than 30 minutes to create, including some modifications I made. The debugging lessons were incredibly basic.
+
+**Link(s) to work**
+1. https://replit.com/@AaronFleming/Day-12-Number-Guessing-Game-Final-Project
+2. https://replit.com/@AaronFleming/Day-13-Debugging
+3. https://replit.com/@AaronFleming/Day-14-Higher-Lower-Game
