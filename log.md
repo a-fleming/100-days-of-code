@@ -182,3 +182,26 @@ Mini Projects completed:
 1. https://replit.com/@AaronFleming/Day-12-Number-Guessing-Game-Final-Project
 2. https://replit.com/@AaronFleming/Day-13-Debugging
 3. https://replit.com/@AaronFleming/Day-14-Higher-Lower-Game
+
+   
+### Day 9: June 1, 2024 - Saturday
+
+**Today's Progress**: Completed lessons and projects from Days 15 and 16.
+Topics reviewed:
+- IDE setup/configuration
+- installing Python packages
+- Procedural programming paradigm
+- Object-oriented programming paradigm
+- Classes
+- Class attributes
+- Class methods
+
+Mini Projects completed:
+- Coffee Maker (procedural)
+- Coffee Maker (object-oriented)
+
+**Thoughts**: The process of making the coffe maker program was pretty informative. Although the example program was fairly unsophisticated and lacked checks to prevent invalid user inputs from crashing the program, it gave me a good starting point and provided several features that could be added to make the program more useful and easier to interact with and test. I noticed that for the past few projects I had written several different functions to validate user inputs. I was able to refine these functions and consolidate them into two functions that are much more robust and have optional parameters that can allow them to be used for a variety of different input validation needs. get_valid_string_from_options() and get_valid_int()
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-9/CoffeeMaker(procedural)
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-9/CoffeeMaker(OOP)
