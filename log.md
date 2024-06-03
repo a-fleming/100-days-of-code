@@ -205,3 +205,25 @@ Mini Projects completed:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-9/CoffeeMaker(procedural)
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-9/CoffeeMaker(OOP)
+
+
+### Day 10: June 2, 2024 - Sunday
+
+**Today's Progress**: Completed lessons and project from Day 17.
+Topics reviewed:
+- Object-oriented programming paradigm
+- APIs
+- Classes
+- dunder methods
+- lists
+- dictionaries
+- random.sample()
+
+Mini Projects completed:
+- Quiz Game (object-oriented)
+
+**Thoughts**: I didn't get too much time today, but I was able to make the quiz on my own using OOP and then refine it a bit more after watching the solution video. The link that was provided to the website with the Trivia question API was really helpful for generating additional questions. The Quiz Game program could definitely be expanded to handle additional types of questions (multiple choice, fill in the blank, etc), as well as add ability for user to specify the types of questions they want to include in the quiz.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-10/Classes
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-10/QuizGame
