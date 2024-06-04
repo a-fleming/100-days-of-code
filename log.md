@@ -227,3 +227,24 @@ Mini Projects completed:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-10/Classes
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-10/QuizGame
+
+
+### Day 11: June 3, 2024 - Monday
+
+**Today's Progress**: Completed lessons and project from Day 18.
+Topics reviewed:
+- turtle graphics module
+- tkinter
+- installing Python packages
+- tuples
+- random.choice()
+
+Mini Projects completed:
+- Random walk simulation 
+- Dot Painting project
+
+**Thoughts**: I was a bit rushed today and didn't get as much time to focus as I would have liked, but I was able to finish the lessons and the project. I will definitely play around with the Turtle module more in the future for practice.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-11/TurtlePractice
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-11/DotPainting
