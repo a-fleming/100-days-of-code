@@ -252,7 +252,7 @@ Mini Projects completed:
 
 ### Day 12: June 4, 2024 - Tuesday
 
-**Today's Progress**: Completed lessons and project from Day 18.
+**Today's Progress**: Completed lessons and project from Day 19.
 Topics reviewed:
 - turtle graphics module
 - event listeners
