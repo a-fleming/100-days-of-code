@@ -248,3 +248,24 @@ Mini Projects completed:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-11/TurtlePractice
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-11/DotPainting
+
+
+### Day 12: June 4, 2024 - Tuesday
+
+**Today's Progress**: Completed lessons and project from Day 18.
+Topics reviewed:
+- turtle graphics module
+- event listeners
+- state
+- higher order functions
+- race conditions
+
+Mini Projects completed:
+- Etch A Sketch
+- Turtle Race
+
+**Thoughts**: I played around with the Turtle module quite a bit. I created the basic Etch A Sketch, and then I modified it so that it worked correctly if you held down the arrow keys (rather than just moving when you press the key). I also added a boost function so you can press the space bar to double the speed. I also added toggle keys that allow you to increase the base speed and angle increment amounts higher and lower.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-12/EtchASketch
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-12/TurtleRace
