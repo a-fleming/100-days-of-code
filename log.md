@@ -269,3 +269,22 @@ Mini Projects completed:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-12/EtchASketch
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-12/TurtleRace
+
+
+### Day 13: June 5, 2024 - Tuesday
+
+**Today's Progress**: Completed project from Day 20 (the first half of the Snake game), but skipped the lessons.
+Topics reviewed:
+- turtle graphics module
+- event listeners
+- higher order functions
+- inheritance
+- collision detection
+
+Project worked on:
+- Snake Game
+
+**Thoughts**: I was a bit rushed today and only got a bit of time to work before bed. I didn't watch any of the video lessons but was able to get the basic of the Snake game done. So far I can make the snake move around the board, and I have a piece of food that gets generated. The collision detection isn't fully working, but if the Snake touches the food, it will be "eaten" and move to a different part of the board. It took some time to research how to properly do animations using event listeners and mainloop() in the Turtle class, because I definitely didn't do it the proper way yesterday. I was able to get the Etch A Sketch to work with an endless while loop, but after further research I found that isn't the ideal way to handle the loop with event listeners. I will have to go back and re-make the Etch A Sketch correctly in the future.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-13/Snake_(part_1)
