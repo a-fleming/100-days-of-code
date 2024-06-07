@@ -271,7 +271,7 @@ Mini Projects completed:
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-12/TurtleRace
 
 
-### Day 13: June 5, 2024 - Tuesday
+### Day 13: June 5, 2024 - Wednesday
 
 **Today's Progress**: Completed project from Day 20 (the first half of the Snake game), but skipped the lessons.
 Topics reviewed:
@@ -288,3 +288,23 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-13/Snake_(part_1)
+
+
+### Day 14: June 6, 2024 - Thursday
+
+**Today's Progress**: Completed project from Day 21 (the second half of the Snake game), but skipped the lessons.
+Topics reviewed:
+- turtle graphics animations (mainloop, tracer, update)
+- event listeners
+- higher order functions
+- inheritance
+- collision detection
+- boundries
+
+Project completed:
+- Snake Game
+
+**Thoughts**: I was able to finish the rest of the functionality for the Snake game (generate food in correct locations, implement collision detection correctly, detect crash with wall or tail, updating score and writing on the screen, and writing GAME OVER message). I also implemented somewehat of a developer console to allow me to debug things more easily. When I press the "Enter" key, it prompts me for code I want to evaluate, and then runs eval() on my input. This way I can easily check or set values during runtime, as well as running functions. The overall code could definitely use some polishing and refactoring to make it more consice, but that will be for another day.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-13/Snake_(part_2)
