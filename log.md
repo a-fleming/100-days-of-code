@@ -308,3 +308,24 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-13/Snake_(part_2)
+
+
+### Day 15: June 7, 2024 - Friday
+
+**Today's Progress**: Completed lessons from Days 20 and 21, and completed about 2/3 of the project from Day 22 (Pong) but not the lessons.
+Topics reviewed:
+- turtle graphics animations (mainloop, tracer, update)
+- event listeners
+- higher order functions
+- inheritance
+- collision detection
+- boundries
+- computer-controlled player
+
+Project worked on:
+- Pong
+
+**Thoughts**: Before doing any coding, I took some time to write out the relevant classes, class attributes, and class methods I thought would be necessary to make the Pong game. This was incredibly helpful because it gave me a framework that I could work at filling in, and heped me to see all the parts of the project and how they would interact.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-15/Pong
