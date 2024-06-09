@@ -329,3 +329,24 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-15/Pong
+
+
+### Day 16: June 8, 2024 - Saturday
+
+**Today's Progress**: Completed lesson from Day 22 and completed the remainder of the project from Day 22 (Pong). I also revised it quite a bit and added several extra features. I didn't start working on the Day 23 project or lessons.
+Topics reviewed:
+- turtle graphics animations (mainloop, tracer, update)
+- event listeners
+- higher order functions
+- inheritance
+- collision detection (lots of time spent improving this)
+- boundries
+- computer-controlled player
+
+Project completed:
+- Pong
+
+**Thoughts**: I spent an incredible amount of time today tweaking the collision detection for the ball and paddles to improve the gameplay and get rid of some bugs where the ball could go through the paddle if its x velocity got high enough.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-16/Pong
