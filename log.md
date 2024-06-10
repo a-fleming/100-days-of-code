@@ -350,3 +350,22 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-16/Pong
+
+
+### Day 17: June 9, 2024 - Sunday
+
+**Today's Progress**: Completed about 2/3 of the Day 23 project (Turtle Crossing game). I didn't go through the lessons, except for the first two lessons which introduced the project and gave some specifications.
+Topics reviewed:
+- turtle graphics animations (mainloop, tracer, update)
+- event listeners
+- higher order functions
+- inheritance
+
+Project worked on:
+- Turtle Crossing game
+
+**Thoughts**: I was only able to spend an hour and a half on the project today, so not as long as I would have liked. But I am happy with how much of the project I was able to get done in that time. I pretty much have all of classes implemented that I need. I just need to add collision detection between the cars and the turtle, as well as detect when the turtle reaches the end of the level and then start the next level. I think I will be able to take my GameController class and use it as a default class in the future when I make more games with the Turtle module, which should help speed up some of the basic parts needed to get the initial game loop going.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-17/TurtleCrossing
+
