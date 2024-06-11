@@ -360,6 +360,7 @@ Topics reviewed:
 - event listeners
 - higher order functions
 - inheritance
+- lambda (anonymous functions)
 
 Project worked on:
 - Turtle Crossing game
@@ -377,7 +378,7 @@ Topics reviewed:
 - turtle graphics animations (mainloop, tracer, update)
 - event listeners
 - higher order functions
-- inheritance
+- lambda (anonymous functions)
 
 Project worked on:
 - Turtle Crossing game
