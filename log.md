@@ -369,3 +369,20 @@ Project worked on:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-17/TurtleCrossing
 
+
+### Day 18: June 10, 2024 - Monday
+
+**Today's Progress**: Refined much of the work on the Turtle Crossing game and implemented collision detection to end the game, but still need to implement level progression when the player reaches the finish line.
+Topics reviewed:
+- turtle graphics animations (mainloop, tracer, update)
+- event listeners
+- higher order functions
+- inheritance
+
+Project worked on:
+- Turtle Crossing game
+
+**Thoughts**: Today I got about an hour and a half of programming. I spend much of the time revising the structure of my code so it makes more sense and better utilizes OOP. I did a couple iterations of collision detection methods, and implemented some additional functionality for testing purposes (allow user to pause the game, show coordinates of Cars and the player when clicked, and allow user to add a car at a specified x and y position). I should be able to finish this project with another hour or less.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-18/TurtleCrossing
