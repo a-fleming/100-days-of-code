@@ -387,3 +387,20 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-18/TurtleCrossing
+
+
+### Day 19: June 11, 2024 - Tuesday
+
+**Today's Progress**: Completed the rest of the requirements of the Turtle Crossing program (or at least what I thought were the requirements), allowing the level to increase when the finish line is reached, and the player to move back to the start and continue playing. I also included a few aspects of difficulty that increase as the level number increases. The maximum number of cars on screen increases, the probability of spawning a car increases, and the speed of the cars movement increases.
+Topics reviewed:
+- turtle graphics animations (mainloop, tracer, update)
+- event listeners
+- level progression / difficulty
+
+Project completed:
+- Turtle Crossing game
+
+**Thoughts**: I was finally able to finish the rest of the game instead of just continuing to revise and improve on certain aspects. The difficulty elements could definitely be refined further, and I could make some modifications so cars only spawn in distinct lanes (rather than any Y value between the start and finish), but at this point I think I learned what was needed for this project and I will move on to future lessons and projects tomorrow.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-19/TurtleCrossing
