@@ -404,3 +404,19 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-19/TurtleCrossing
+
+
+### Day 20: June 12, 2024 - Wednesday
+
+**Today's Progress**: Went back and made one more revision to Turtle Crossing game so that cars are only spawned in distinct lanes that line up with the rows the player can actually land on. After that, I finally went through the lessons from Day 23. I watched the first few Day 24 lessons on file readingwriting and also did the first Day 24 project (revised Snake game to have persistent high schore).
+Topics reviewed:
+- file input/output
+
+Project completed:
+- Snake game revision (including persistent high score list)
+
+**Thoughts**: I woke up early this morning and did all of my coding during the first part of the morning when I was fresh. I was definitely able to think more clearly than I typically do late at night with other distractions going on in the room. I was able to review the basics of file system I/O and successfully revise the Snake game to be repeatable, as well as implement a high score list that persists even after the game is closed (by saving the high scores to a file).
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-20/TurtleCrossing
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-20/Snake
