@@ -420,3 +420,22 @@ Project completed:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-20/TurtleCrossing
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-20/Snake
+
+
+### Day 21: June 13, 2024 - Thursday
+
+**Today's Progress**: Completed the remaining lessons from Day 24, as well as project (Mail Merge). Also started going through the Day 25 lessons and reading through the Pandas library.
+Topics reviewed:
+- file input/output
+- .csv files
+- csv module
+- Pandas library
+
+Project completed:
+- Mail Merge
+
+**Thoughts**: The Mail Merge project was incredibly easy once I re-learned how to interact with files. It probably took about 5 minutes to complete. The Pandas library has always seemed a bit daunting to me, so I am excited to jump in and start working with it. It has extensive functionality, as well as good documentation to go along with it.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-21/MailMerge
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-21
