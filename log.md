@@ -439,3 +439,22 @@ Project completed:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-21/MailMerge
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-21
+
+
+### Day 22: June 14, 2024 - Friday
+
+**Today's Progress**: Completed the remaining lessons and project (U.S. States Game) from Day 25.
+Topics reviewed:
+- file input/output
+- .csv files
+- csv module
+- Pandas library
+
+Project completed:
+- U.S. States Quiz game
+
+**Thoughts**: I'm not sure if I made the best use of the Pandas library for the state game, since I just used it to read the .csv file and then iterate over the rows of states and add them to my own dictionary (since the .to_dict() method didn't result in the correctly organized dictionary). It might be worth looking to see if there is a built-in way for it to access all of the elements of a row at the same time while iterating through the whole DataFrame (so I could pull out the state name and its corresponding x and y coordinates all at the same time).
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-22
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-22/U.S.StatesGame
