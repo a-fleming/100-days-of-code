@@ -458,3 +458,27 @@ Project completed:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-22
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-22/U.S.StatesGame
+
+
+### Day 23: June 15, 2024 - Saturday
+
+**Today's Progress**: Completed the lessons and projects from Days 26 and 27.
+Topics reviewed:
+- file input/output
+- .csv files
+- list/dictionary comprehension
+- Pandas library
+- GUIs
+- TKinter library
+
+Projects completed:
+- NATO alphabet converter
+- Miles to Kilometers converter
+
+**Thoughts**: I was able to find the .iterrows() method in the Pandas DataFrame object, which lets me iterate through a DataFrame the way I wanted to yesterday (go row by row and get all the relevant items in the row). I revised the US States quiz to use this new way. I was able to do the NATO alphabet converter very quickly. I wrote up the dictionay and conversion function in the terminal in about 3 minutes, and then just changed it over to a python file and added the user interaction portion. The Mile to Kilometer converter was also very easy to get the required functionality completed. I spent a lot of time learning more about TKinter and revising the converter. I made one version where the input for Miles already has focus, and you are able to run the calculation by pressing the "Enter" key or clicking the Calculate button. And for the Calculate button, I added functionality to detect when the mouse hovers over the button or leaves the button, and to increase the size of the border when hovering over the button so that the user gets some visual feedback. I also created another version of the calculator where the conversion is automatically updated as you type (no clicking Calculate or pressing "Enter" needed). You can also enter a Kilometer amount and it will show you the conversion to Miles. TKinter is very robust and is pretty straightforward to use. I think I will use it to make a GUI interface for my Sudoku solver.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-23/NATO
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-23/TKinter
+3. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-23/MilesToKilometers
+
