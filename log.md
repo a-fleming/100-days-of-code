@@ -482,3 +482,22 @@ Projects completed:
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-23/TKinter
 3. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-23/MilesToKilometers
 
+
+### Day 24: June 16, 2024 - Sunday
+
+**Today's Progress**: Completed about 2/3 of the Day 28 project (Pomodoro timer). Just need to add functionality to switch back and forth between work and breaks as necessary, and to bring the app back to foreground when timer goes off.
+Topics reviewed:
+- GUIs
+- TKinter grid layout
+- Tkinter PhotoImage
+- TKinter Canvas
+- Event listeners
+- Event scheduling
+
+Project worked on:
+- Pomodoro timer
+
+**Thoughts**: The logic behind the Pomodoro app is pretty straightforward and simple. The complicated part has been trying to figure out how to make things happen within TKinter. The offical documentation is not great, so I have been reading through several StackOverflow articles and other pages dedicated to TKinter documentation in order to figure out how to do things. It forced me to learn about the TKinter Canvas class in order to be able to show an image and also put text in front of the image. Also, I had to learn about event scheduling (starting and stopping events) with the .after and .after_cancel methods.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-24/Pomodoro
