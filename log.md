@@ -501,3 +501,24 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-24/Pomodoro
+
+
+### Day 25: June 17, 2024 - Monday
+
+**Today's Progress**: Completed the rest of the Pomodoro project functionality (switching between work and breaks, bringing the app to foreground when timer goes off, and also playing a sound when timer goes off). However, I introduced a bug that I need to fix. Currently when I start a timer, it shows 1 second less than the set time. Also, the alarm sound doesn't go off until 1 second after the timer already reaches 00:00.
+Topics reviewed:
+- GUIs
+- TKinter grid layout
+- TKinter Canvas
+- Event listeners
+- Event scheduling
+- winsound module (for making audible beeps)
+- How to bring applications to the foreground programmatically
+
+Project worked on:
+- Pomodoro timer
+
+**Thoughts**: It was particularly tricky to find how to make the application come into the foreground of any other open applications when the timer goes off. One method I found seemd like it worked, but it kept the Pomodoro app in the foreground and wouldn't let you click off of it. I went through several StackOverflow answers until I finally found one that worked. I will have to look more into the bugs regarding the missing 1 second when the timer starts and the 1 additional second until the alarm sounds, because I couldn't figure it out today.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-25/Pomodoro
