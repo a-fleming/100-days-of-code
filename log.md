@@ -522,3 +522,21 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-25/Pomodoro
+
+
+### Day 26: June 18, 2024 - Tuesday
+
+**Today's Progress**: Completed the Day 28 lessons and finished the project. Fixed the bugs in the Pomodoro app so now it correctly shows the full time when the timer is started, and it also shows 00:00 for a second before going to the next timer loop. The beep issue is still present, but I think I may need to use a different method to play sound, since this method takes control of the GUI for the entire duration, which is throwing off the event scheduling.
+Topics reviewed:
+- GUIs
+- TKinter Canvas
+- Event scheduling
+- winsound module (for making audible beeps)
+
+Project completed:
+- Pomodoro timer
+
+**Thoughts**: Tracking down the bugs took quite a while, but I eventually realized that when I completed a work/break session I was immediately calling the function to start the next work/break session. What I really needed to do was schedule it a second in the future so that the 00:00 would show on screen briefly. As far as the wrong initial time showing, that was fixed with the call to start_work() being scheduled a second in the future. I also found out that the winsound module is not asyncronous, but blocks any other code execution at the same time. So I believe that is why the beep was extending the time on the 00:00 screen by a second. I will have to look into different ways of playing sounds, but I won't worry about that for now. I want to move on to the other lessons.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-26/Pomodoro
