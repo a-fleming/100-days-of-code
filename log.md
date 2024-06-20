@@ -540,3 +540,22 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-26/Pomodoro
+
+
+### Day 27: June 19, 2024 - Wednesday
+
+**Today's Progress**: Completed the lessons and project (Password Manager) for Day 29.
+Topics reviewed:
+- GUIs
+- TKinter Frame
+- TKinter messagebox module
+- Copying text to clipboard
+- random module
+
+Project completed:
+- Password Manager
+
+**Thoughts**: The project was very straightforward, and I was able to complete all of it without watching the lessons explaining how to do the new concepts. It took some researching to find out how to do certain things, but I was able to figure it out. Some examples were deleting text from an Entry widget, inserting textx into an Entry widget, copying text to the clipboard, having a widget straddle across multiple columns in the grid, giving focus to an Entry widget, using Frame objects to hold other widgets, and using the TKinter messagebox module to create dialog boxes to give messages to the user or request input from the user (specifically Yes/No questions).
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-27/PasswordManager
