@@ -559,3 +559,22 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-27/PasswordManager
+
+
+### Day 28: June 20, 2024 - Thursday
+
+**Today's Progress**: Completed the lessons and project (Password Manager search function addition) for Day 30.
+Topics reviewed:
+- GUIs
+- JSON
+- File I/O
+- TKinter messagebox module
+- random module
+
+Project improved:
+- Password Manager (added Search functionality)
+
+**Thoughts**: It was pretty straightforward to modify the existing Password Manager to read/write the password data using JSON instead of the previous method of writing " | " between each field. Also, adding the Search button functionality and using the try/except blocks to catch exceptions was pretty easy. Thankfully I spent quite a bit of time getting the TKinter layout just right last time, so it was easy to add the Search bar and keep everything else from being impacted negatively.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-28/PasswordManager
