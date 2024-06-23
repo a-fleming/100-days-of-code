@@ -578,3 +578,24 @@ Project improved:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-28/PasswordManager
+
+
+### Day 29/30: June 21/22, 2024 - Friday/Saturday
+
+**Today's Progress**: Completed the initial lessons and about 2/3 of the capstone project (Flashcard app) for Day 31.
+Topics reviewed:
+- GUIs
+- .csv file I/O
+- TKinter Canvas
+- TKinter grid layout
+- Event listeners
+- Higher order functions
+
+Projects worked on:
+- Flashcard app (Capstone project)
+- Sudoku solver
+
+**Thoughts**: I was out of town this weekend and did't get to spend as much time coding. I didn't have internet access yesterday, so I am including the log for both yesterday and today. I was able to find a word list for the 3,000 most common Spanish words (so I can make the flashcard app for Spanish instead of French), and then used the GOOGLETRANSLATE function inside Google Sheets to translate them into English. And I exported them as a .csv file so I can use them in place of the French words file. I was able to get most of the flashcard app done, I just need to watch some of the video lessons to see how exactly it is supposed to function and keep track of correct/incorrect flashcards. It doesn't really make sense that the right and wrong buttons are on the side of the cards in the foreign language, but instead they should be on the English side so that we can mark if we did or didn't remember the translation. I'm not sure though if the other side should have the buttons removed and should automatically flip after a few seconds, or if there should be a different button to flip the card to the English side.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-29-and-30/Flashcard
