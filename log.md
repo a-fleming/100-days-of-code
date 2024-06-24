@@ -599,3 +599,22 @@ Projects worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-29-and-30/Flashcard
+
+
+### Day 31: June 23, 2024 - Sunday
+
+**Today's Progress**: Completed the capstone project (Flashcard app) for Day 31.
+Topics reviewed:
+- GUIs
+- TKinter application loop
+- showing/hiding TKinter grid Buttons
+- Event listeners
+- Higher order functions
+
+Project completed:
+- Flashcard app (Capstone project)
+
+**Thoughts**: I got the rest of the required functionality to work on the Flashcard app (removing known cards from the deck, and keeping not known cards in the deck). I also added functionality so the user could restart once they got through all the cards. There is plenty of opportunity to expand this project to include things like saving progression to file, implementing spaced repetition algorithms to show cards at the ideal time, and showing some sort of statistics to the user with things like most missed word, least missed word, number of decks completed, etc.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-31/Flashcard
