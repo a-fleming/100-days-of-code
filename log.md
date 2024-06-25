@@ -618,3 +618,21 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-31/Flashcard
+
+
+### Day 32: June 24, 2024 - Monday
+
+**Today's Progress**: Completed half of the lessons, finished the mini project (Monday Motivational Quote sender), and started the project (Birthday Wisher) for Day 32.
+Topics reviewed:
+- smtplib module
+- datetime module
+- random module
+
+Project worked on:
+- Birthday Wisher
+
+**Thoughts**: The smtplib module seems like a good module to use to practice email sending concepts, but from reading through various StackOverflow answers it seems like the email module might be better to work with since it is more robust.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-32
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-32/BirthdayWisher
