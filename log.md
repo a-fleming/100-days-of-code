@@ -636,3 +636,22 @@ Project worked on:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-32
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-32/BirthdayWisher
+
+
+### Day 33: June 24, 2024 - Tuesday
+
+**Today's Progress**: Completed remaining lessons and finished project (Birthday Wisher) for Day 32.
+Topics reviewed:
+- smtplib module
+- random module
+- pandas module
+- .csv files
+- running python in the cloud (pythonanywhere.com)
+
+Project completed:
+- Birthday Wisher
+
+**Thoughts**: I finished the project and did some additional research to find out how to get smtplib to send emails with addresses in the To field instead of just bcc. Overall, it still seems pretty clunky, and I probably wouldn't use it much in the future.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-33/BirthdayWisher
