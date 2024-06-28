@@ -655,3 +655,24 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-33/BirthdayWisher
+
+
+### Day 34: June 25, 2024 - Wednesday
+
+**Today's Progress**: Completed half of the lessons and started the project (ISS Overhead Notifier) for Day 33. Also added functionality to the Day 32 Flashcards capstone to save the remaining un-memorized words to file.
+Topics reviewed:
+- file I/O
+- APIs
+- requests module
+- datetime module
+- raising Exceptions
+- JSON
+
+Project worked on:
+- ISS Overhead Notifier
+
+**Thoughts**: Working with APIs reminded me my time in Web and Internet Programming class in college. There is definitely a lot that can be done with them, and the requests module makes it pretty easy to interact with them. I am excited to put the module to good use.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-34
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-34/ISSOverheadNotifier
