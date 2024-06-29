@@ -26,6 +26,7 @@
 ### Day 2: May 25, 2024 - Saturday
 
 **Today's Progress**: Completed lessons from Days 3, 4, and 5, and completed the projects for Days 4, 5, and 6.
+
 Topics reviewed:
 - conditional statements
 - lists
@@ -66,6 +67,7 @@ Topics reviewed:
 ### Day 4: May 27, 2024 - Monday
 
 **Today's Progress**: Completed lessons and projects from Days 7 and 8.
+
 Topics reviewed:
 - functions (with positional arguments and with keyword arguments)
 - creating modules
@@ -86,6 +88,7 @@ Mini Projects completed:
 ### Day 5: May 28, 2024 - Tuesday
 
 **Today's Progress**: Completed lessons and project from Day 9. Solved additional Reeborg's World puzzles.
+
 Topics reviewed:
 - dictionaries
 - nesting lists and dictionaries
@@ -123,6 +126,7 @@ Mini Projects completed:
 ### Day 6: May 29, 2024 - Wednesday
 
 **Today's Progress**: Completed half of the lessons and the project from Day 10.
+
 Topics reviewed:
 - functions (with returns)
 - eval()
@@ -140,6 +144,7 @@ Mini Projects completed:
 ### Day 7: May 30, 2024 - Thursday
 
 **Today's Progress**: Completed Blackjack project (Capstone #1) for Day 11.
+
 Topics reviewed:
 - lists
 - functions
@@ -163,6 +168,7 @@ Capstone Project completed:
 ### Day 8: May 31, 2024 - Friday
 
 **Today's Progress**: Completed lessons from Days 12, 13, and 14, and completed projects from Days 12 and 14.
+
 Topics reviewed:
 - debugging/debuggers
 - random module
@@ -187,6 +193,7 @@ Mini Projects completed:
 ### Day 9: June 1, 2024 - Saturday
 
 **Today's Progress**: Completed lessons and projects from Days 15 and 16.
+
 Topics reviewed:
 - IDE setup/configuration
 - installing Python packages
@@ -210,6 +217,7 @@ Mini Projects completed:
 ### Day 10: June 2, 2024 - Sunday
 
 **Today's Progress**: Completed lessons and project from Day 17.
+
 Topics reviewed:
 - Object-oriented programming paradigm
 - APIs
@@ -232,6 +240,7 @@ Mini Projects completed:
 ### Day 11: June 3, 2024 - Monday
 
 **Today's Progress**: Completed lessons and project from Day 18.
+
 Topics reviewed:
 - turtle graphics module
 - tkinter
@@ -253,6 +262,7 @@ Mini Projects completed:
 ### Day 12: June 4, 2024 - Tuesday
 
 **Today's Progress**: Completed lessons and project from Day 19.
+
 Topics reviewed:
 - turtle graphics module
 - event listeners
@@ -274,6 +284,7 @@ Mini Projects completed:
 ### Day 13: June 5, 2024 - Wednesday
 
 **Today's Progress**: Completed project from Day 20 (the first half of the Snake game), but skipped the lessons.
+
 Topics reviewed:
 - turtle graphics module
 - event listeners
@@ -293,6 +304,7 @@ Project worked on:
 ### Day 14: June 6, 2024 - Thursday
 
 **Today's Progress**: Completed project from Day 21 (the second half of the Snake game), but skipped the lessons.
+
 Topics reviewed:
 - turtle graphics animations (mainloop, tracer, update)
 - event listeners
@@ -313,6 +325,7 @@ Project completed:
 ### Day 15: June 7, 2024 - Friday
 
 **Today's Progress**: Completed lessons from Days 20 and 21, and completed about 2/3 of the project from Day 22 (Pong) but not the lessons.
+
 Topics reviewed:
 - turtle graphics animations (mainloop, tracer, update)
 - event listeners
@@ -334,6 +347,7 @@ Project worked on:
 ### Day 16: June 8, 2024 - Saturday
 
 **Today's Progress**: Completed lesson from Day 22 and completed the remainder of the project from Day 22 (Pong). I also revised it quite a bit and added several extra features. I didn't start working on the Day 23 project or lessons.
+
 Topics reviewed:
 - turtle graphics animations (mainloop, tracer, update)
 - event listeners
@@ -355,6 +369,7 @@ Project completed:
 ### Day 17: June 9, 2024 - Sunday
 
 **Today's Progress**: Completed about 2/3 of the Day 23 project (Turtle Crossing game). I didn't go through the lessons, except for the first two lessons which introduced the project and gave some specifications.
+
 Topics reviewed:
 - turtle graphics animations (mainloop, tracer, update)
 - event listeners
@@ -374,6 +389,7 @@ Project worked on:
 ### Day 18: June 10, 2024 - Monday
 
 **Today's Progress**: Refined much of the work on the Turtle Crossing game and implemented collision detection to end the game, but still need to implement level progression when the player reaches the finish line.
+
 Topics reviewed:
 - turtle graphics animations (mainloop, tracer, update)
 - event listeners
@@ -392,6 +408,7 @@ Project worked on:
 ### Day 19: June 11, 2024 - Tuesday
 
 **Today's Progress**: Completed the rest of the requirements of the Turtle Crossing program (or at least what I thought were the requirements), allowing the level to increase when the finish line is reached, and the player to move back to the start and continue playing. I also included a few aspects of difficulty that increase as the level number increases. The maximum number of cars on screen increases, the probability of spawning a car increases, and the speed of the cars movement increases.
+
 Topics reviewed:
 - turtle graphics animations (mainloop, tracer, update)
 - event listeners
@@ -408,7 +425,8 @@ Project completed:
 
 ### Day 20: June 12, 2024 - Wednesday
 
-**Today's Progress**: Went back and made one more revision to Turtle Crossing game so that cars are only spawned in distinct lanes that line up with the rows the player can actually land on. After that, I finally went through the lessons from Day 23. I watched the first few Day 24 lessons on file readingwriting and also did the first Day 24 project (revised Snake game to have persistent high schore).
+**Today's Progress**: Went back and made one more revision to Turtle Crossing game so that cars are only spawned in distinct lanes that line up with the rows the player can actually land on. After that, I finally went through the lessons from Day 23. I watched the first few Day 24 lessons on file readingwriting and also did the first Day 24 project (revised Snake game to have persistent high score).
+
 Topics reviewed:
 - file input/output
 
@@ -425,6 +443,7 @@ Project completed:
 ### Day 21: June 13, 2024 - Thursday
 
 **Today's Progress**: Completed the remaining lessons from Day 24, as well as project (Mail Merge). Also started going through the Day 25 lessons and reading through the Pandas library.
+
 Topics reviewed:
 - file input/output
 - .csv files
@@ -444,6 +463,7 @@ Project completed:
 ### Day 22: June 14, 2024 - Friday
 
 **Today's Progress**: Completed the remaining lessons and project (U.S. States Game) from Day 25.
+
 Topics reviewed:
 - file input/output
 - .csv files
@@ -463,6 +483,7 @@ Project completed:
 ### Day 23: June 15, 2024 - Saturday
 
 **Today's Progress**: Completed the lessons and projects from Days 26 and 27.
+
 Topics reviewed:
 - file input/output
 - .csv files
@@ -486,6 +507,7 @@ Projects completed:
 ### Day 24: June 16, 2024 - Sunday
 
 **Today's Progress**: Completed about 2/3 of the Day 28 project (Pomodoro timer). Just need to add functionality to switch back and forth between work and breaks as necessary, and to bring the app back to foreground when timer goes off.
+
 Topics reviewed:
 - GUIs
 - TKinter grid layout
@@ -506,6 +528,7 @@ Project worked on:
 ### Day 25: June 17, 2024 - Monday
 
 **Today's Progress**: Completed the rest of the Pomodoro project functionality (switching between work and breaks, bringing the app to foreground when timer goes off, and also playing a sound when timer goes off). However, I introduced a bug that I need to fix. Currently when I start a timer, it shows 1 second less than the set time. Also, the alarm sound doesn't go off until 1 second after the timer already reaches 00:00.
+
 Topics reviewed:
 - GUIs
 - TKinter grid layout
@@ -527,6 +550,7 @@ Project worked on:
 ### Day 26: June 18, 2024 - Tuesday
 
 **Today's Progress**: Completed the Day 28 lessons and finished the project. Fixed the bugs in the Pomodoro app so now it correctly shows the full time when the timer is started, and it also shows 00:00 for a second before going to the next timer loop. The beep issue is still present, but I think I may need to use a different method to play sound, since this method takes control of the GUI for the entire duration, which is throwing off the event scheduling.
+
 Topics reviewed:
 - GUIs
 - TKinter Canvas
@@ -545,6 +569,7 @@ Project completed:
 ### Day 27: June 19, 2024 - Wednesday
 
 **Today's Progress**: Completed the lessons and project (Password Manager) for Day 29.
+
 Topics reviewed:
 - GUIs
 - TKinter Frame
@@ -564,6 +589,7 @@ Project completed:
 ### Day 28: June 20, 2024 - Thursday
 
 **Today's Progress**: Completed the lessons and project (Password Manager search function addition) for Day 30.
+
 Topics reviewed:
 - GUIs
 - JSON
@@ -583,6 +609,7 @@ Project improved:
 ### Day 29/30: June 21/22, 2024 - Friday/Saturday
 
 **Today's Progress**: Completed the initial lessons and about 2/3 of the capstone project (Flashcard app) for Day 31.
+
 Topics reviewed:
 - GUIs
 - .csv file I/O
@@ -604,6 +631,7 @@ Projects worked on:
 ### Day 31: June 23, 2024 - Sunday
 
 **Today's Progress**: Completed the capstone project (Flashcard app) for Day 31.
+
 Topics reviewed:
 - GUIs
 - TKinter application loop
@@ -623,6 +651,7 @@ Project completed:
 ### Day 32: June 24, 2024 - Monday
 
 **Today's Progress**: Completed half of the lessons, finished the mini project (Monday Motivational Quote sender), and started the project (Birthday Wisher) for Day 32.
+
 Topics reviewed:
 - smtplib module
 - datetime module
@@ -641,6 +670,7 @@ Project worked on:
 ### Day 33: June 24, 2024 - Tuesday
 
 **Today's Progress**: Completed remaining lessons and finished project (Birthday Wisher) for Day 32.
+
 Topics reviewed:
 - smtplib module
 - random module
@@ -660,6 +690,7 @@ Project completed:
 ### Day 34: June 25, 2024 - Wednesday
 
 **Today's Progress**: Completed half of the lessons and started the project (ISS Overhead Notifier) for Day 33. Also added functionality to the Day 32 Flashcards capstone to save the remaining un-memorized words to file.
+
 Topics reviewed:
 - file I/O
 - APIs
@@ -676,3 +707,25 @@ Project worked on:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-34
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-34/ISSOverheadNotifier
+
+
+### Day 35: June 26, 2024 - Thursday
+
+**Today's Progress**: Completed the remaining lessons and worked more on the project (ISS Overhead Notifier) for Day 33. Completed the Kanye Quote generator mini project and the part of the ISS Notifier that determines if it is night time.
+
+Topics reviewed:
+- file I/O
+- APIs
+- requests module
+- datetime module
+- raising Exceptions
+- JSON
+
+Project worked on:
+- ISS Overhead Notifier
+
+**Thoughts**: For some reason the logic behind determining whethether or not it is currently night time was a bit tricky to work out. Becuase the sunrinse and sunsets could be before or after midnight, I couldn't just check for sunset_time <= current_time <= sunrise_time, because if sunrise was after midnight that statement would be False.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-35/KanyeQuotes
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-35/ISSOverheadNotifier
