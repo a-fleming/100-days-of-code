@@ -667,7 +667,7 @@ Project worked on:
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-32/BirthdayWisher
 
 
-### Day 33: June 24, 2024 - Tuesday
+### Day 33: June 25, 2024 - Tuesday
 
 **Today's Progress**: Completed remaining lessons and finished project (Birthday Wisher) for Day 32.
 
@@ -687,7 +687,7 @@ Project completed:
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-33/BirthdayWisher
 
 
-### Day 34: June 25, 2024 - Wednesday
+### Day 34: June 26, 2024 - Wednesday
 
 **Today's Progress**: Completed half of the lessons and started the project (ISS Overhead Notifier) for Day 33. Also added functionality to the Day 32 Flashcards capstone to save the remaining un-memorized words to file.
 
@@ -709,7 +709,7 @@ Project worked on:
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-34/ISSOverheadNotifier
 
 
-### Day 35: June 26, 2024 - Thursday
+### Day 35: June 27, 2024 - Thursday
 
 **Today's Progress**: Completed the remaining lessons and worked more on the project (ISS Overhead Notifier) for Day 33. Completed the Kanye Quote generator mini project and the part of the ISS Notifier that determines if it is night time.
 
@@ -729,3 +729,30 @@ Project worked on:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-35/KanyeQuotes
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-35/ISSOverheadNotifier
+
+
+### Day 36: June 28, 2024 - Friday
+
+**Today's Progress**: Completed the the project (ISS Overhead Notifier) for Day 33.
+
+Topics reviewed:
+- file I/O
+- APIs
+- requests module
+- datetime module
+- raising Exceptions
+- JSON
+- geocoder module
+- smtplib module
+
+Project completed:
+- ISS Overhead Notifier
+
+Project worked on:
+- Quizzler app
+
+**Thoughts**: There wasn't much left of the project, just to add functionality for the program to send me an email notification when the ISS is overhead and it is night time. Modifying the old QuizGame to use the Trivia website's API instead of manually copying the questions/answers went very smoothly.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-36/ISSOverheadNotifier
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-36/Quizzler
