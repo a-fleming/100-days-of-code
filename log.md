@@ -756,3 +756,26 @@ Project worked on:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-36/ISSOverheadNotifier
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-36/Quizzler
+
+
+### Day 37: June 29, 2024 - Saturday
+
+**Today's Progress**: Completed the the project (Quizzler app) for Day 34 and most of the lessons.
+
+Topics reviewed:
+- APIs
+- tkinter
+- requests module
+- html module
+- time module
+- raising Exceptions
+- JSON
+- anonymous functions (lambda)
+
+Project completed:
+- Quizzler app (GUI)
+
+**Thoughts**: I think I did a good job of implementing the Quizzler app in true OOP form. I separated the quiz logic, quiz interface, and quiz questions into different files with their own respective classes. The Quiz class in the quiz file has a list of Questions, as well as a QuizInterface that handles the GUI.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-37/Quizzler
