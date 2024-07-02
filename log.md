@@ -779,3 +779,23 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-37/Quizzler
+
+
+### Day 38: June 31, 2024 - Monday (skipped Sunday)
+
+**Today's Progress**: Started the lessons and project (Weather SMS) for Day 35.
+
+Topics reviewed:
+- APIs
+- API key
+- requests module
+- raising Exceptions
+- JSON
+
+Project worked on:
+- Weather SMS Notification
+
+**Thoughts**: I didn't get too much time to work on the project or lessons, but it seems pretty straightforward. Once I learn about how to send SMS messages via Python, I should be able to do the rest of the proejct pretty easily.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-38/WeatherForecast
