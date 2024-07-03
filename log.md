@@ -781,7 +781,7 @@ Project completed:
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-37/Quizzler
 
 
-### Day 38: June 31, 2024 - Monday (skipped Sunday)
+### Day 38: July 1, 2024 - Monday (skipped Sunday)
 
 **Today's Progress**: Started the lessons and project (Weather SMS) for Day 35.
 
@@ -799,3 +799,22 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-38/WeatherForecast
+
+
+### Day 39: July 2, 2024 - Tuesday
+
+**Today's Progress**: Completed most of the remaining lessons and the project (Weather SMS) for Day 35, though I was unable to test and verify that the SMS sending portion actually worked.
+
+Topics reviewed:
+- APIs
+- API key
+- Sending SMS messages via Twilio
+- running python in the cloud (pythonanywhere.com)
+
+Project completed:
+- Weather SMS Notification
+
+**Thoughts**: I spent a lot of time trying to get a phone number on Twilio to work so that I could send test messages, but after a lot of failed attempts I found there was a note on one of the Day 35 lessons that mentioned that users in the US and Canada are unable to use the Toll-Free phone number provided with a Twilio account in order to send messages due to new restrictions on those type of numbers. The note suggested using the Virtual recipient number provided on Twilio, but that didn't work either. And as a final suggestion it said to use Twilio's WhatsApp messaging API, but that is not available on a trial account, and I did not want to pay to upgrade for something I will not use. It was pretty frustrating, but I think I will finish the video lessons and skip to the next day.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-39/WeatherForecast
