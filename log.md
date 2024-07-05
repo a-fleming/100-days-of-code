@@ -818,3 +818,22 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-39/WeatherForecast
+
+
+### Day 40: July 3, 2024 - Wednesday
+
+**Today's Progress**: Completed remaining Day 35 lessons. Started the lessons and project (Stock News Alert) for Day 36.
+
+Topics reviewed:
+- File I/O
+- APIs
+- API keys
+- requests module
+
+Project worked on:
+- Stock News Alert
+
+**Thoughts**: I don't think I will be able to test SMS functionality via Python, so I may need to modify projects going forwards to send myself an email instead of a text message. I only got to start the basic parts of this project, but it doesn't seem too difficult. It is basically using a few different APIs to get information on stocks, and then sending myself a notification when the stock has a big change in the open/close price.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-40/StockNewsAlert
