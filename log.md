@@ -820,7 +820,7 @@ Project completed:
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-39/WeatherForecast
 
 
-### Day 40: July 3, 2024 - Wednesday
+### Day 40: July 4, 2024 - Thursday
 
 **Today's Progress**: Completed remaining Day 35 lessons. Started the lessons and project (Stock News Alert) for Day 36.
 
@@ -837,3 +837,26 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-40/StockNewsAlert
+
+
+### Day 41: July 6, 2024 - Saturday
+
+**Today's Progress**: Completed the lessons and project (Stock News Alert) for Day 36. Created a SHARED_DATA folder to store data and files that can be used between PyCharm projects.
+
+Topics reviewed:
+- File I/O
+- APIs
+- API keys
+- requests module
+- smtplib module
+- UTF-8 encoding
+- JSON
+
+Project completed:
+- Stock News Alert
+
+**Thoughts**: I modified the project to send me an email notification when the stock changes meet the required threshold, rather than an SMS. I ran into an issue where the stock API ran out of the 25 free calls that can be made per day. So I had to improvise and make a file with some sample data that I could use for testing purposes while I continued making the rest of the project. I also found myself having to keep remaking helper functions to do basic things like reading API keys from file, as well as the App Password for Gmail. Instead of having to redo this for every project, I found out how I could import files from other directories (by adding those directories to the PyCharm project's root). This allowed me to have a single folder in which I could store the API keys, the App Password, the test email address, as well as my helper.py file that has commonly used functions. This way I only need to update that one file if anything changes, rather than update the files in all my directories.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-41
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-41/StockNewsAlert
