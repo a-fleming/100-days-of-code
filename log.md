@@ -860,3 +860,21 @@ Project completed:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-41
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-41/StockNewsAlert
+
+
+### Day 42: July 7, 2024 - Sunday
+
+**Today's Progress**: Completed the lessons and project (Habit Tracker) for Day 37.
+
+Topics reviewed:
+- Pixela API
+- requests module (GET, POST, PUT, DELETE)
+- JSON
+
+Project completed:
+- Habit Tracker
+
+**Thoughts**: The project was basically a way to programmatically interface with the Pixela API. Pixela itself handles the habit tracker. Even so, there is plenty that could be done to expand the scope of the project and make it more user friendly. I could make a basic TKinter app that allows you to add coding minutes to a particular date, delete dates, and modify dates. I could potentially have it show an image of the habit tracking graph itself, though that wouldn't provide much information. For more information, I would need to locally pull all of the habit tracker data, and have functionality added so that when a certain date is hovered over it shows the quantity of coding minutes for that date. It would be fairly straightforward to do, but I'm not very interested in doing it because I don't actually see myself using this app.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-42/HabitTracker
