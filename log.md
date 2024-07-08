@@ -870,6 +870,7 @@ Topics reviewed:
 - Pixela API
 - requests module (GET, POST, PUT, DELETE)
 - JSON
+- datetime strftime() method
 
 Project completed:
 - Habit Tracker
