@@ -881,8 +881,7 @@ Project completed:
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-42/HabitTracker
 
 
-
-### Day 43: July 9, 2024 - Tuesday
+### Day 43: July 8, 2024 - Monday
 
 **Today's Progress**: Completed 3/4 of the lessons and 3/4 of the project (Workout Tracker) for Day 38.
 
@@ -900,3 +899,24 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-43/WorkoutTracker
+
+
+### Day 44: July 9, 2024 - Tuesday
+
+**Today's Progress**: Completed the remaining lessons and finished the project (Workout Tracker) for Day 38.
+
+Topics reviewed:
+- Nutritionix API (for computing calories burned from exercises)
+- Sheety API (for interacting w/Google Sheets)
+- requests module
+- JSON
+- datetime strftime() method
+- Token authentication
+
+Project completed:
+- Workout Tracker
+
+**Thoughts**: I chose to use the "Bearer" (token) method of authorization instead of the "Basic" authentication using username/password. It was fairly easy to implement. I just needed to generate a complex token, add it to the authentication settings on Sheetly, and then have my API call include the token in the header.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-44/WorkoutTracker
