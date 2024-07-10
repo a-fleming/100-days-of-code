@@ -906,11 +906,9 @@ Project worked on:
 **Today's Progress**: Completed the remaining lessons and finished the project (Workout Tracker) for Day 38.
 
 Topics reviewed:
-- Nutritionix API (for computing calories burned from exercises)
 - Sheety API (for interacting w/Google Sheets)
 - requests module
 - JSON
-- datetime strftime() method
 - Token authentication
 
 Project completed:
