@@ -879,3 +879,24 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-42/HabitTracker
+
+
+
+### Day 43: July 9, 2024 - Tuesday
+
+**Today's Progress**: Completed 3/4 of the lessons and 3/4 of the project (Workout Tracker) for Day 38.
+
+Topics reviewed:
+- Nutritionix API (for computing calories burned from exercises)
+- Sheety API (for interacting w/Google Sheets)
+- requests module
+- JSON
+- datetime strftime() method
+
+Project worked on:
+- Workout Tracker
+
+**Thoughts**: Most of this project consisted of linking different API calls together. The Nutritionix API handled all of the natural language processing of the exercises provided by the user, and returned the duration and calories burned. The Sheetly API allowed us to read from/write to our Google Sheet. So really all our program did was prompt the user and then make two API calls. I didn't realize that the project included securing our Sheetly API with a means of authentication, so I will do that tomorrow.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-43/WorkoutTracker
