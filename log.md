@@ -918,3 +918,23 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-44/WorkoutTracker
+
+
+### Day 45: July 10, 2024 - Wednesday
+
+**Today's Progress**: Started the lessons and the capstone project (Part 1: Flight Deals) for Day 39.
+
+Topics reviewed:
+- Sheety API (for interacting w/Google Sheets)
+- Amadeus API (flight info)
+- requests module
+- JSON
+- OAuth2 (token authentication)
+
+Project worked on:
+- Flight Deals
+
+**Thoughts**: I got some of the basic files for the project started and began working on formatting some of the API calls for the different APIs. The Amadeus API (for getting airport and flight info) was giving me errors, so I need to work on correcting those tomorrow.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-45/FlightDeals
