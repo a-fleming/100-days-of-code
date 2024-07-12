@@ -938,3 +938,23 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-45/FlightDeals
+
+
+### Day 46: July 11, 2024 - Thursday
+
+**Today's Progress**: Continued on capstone project (Part 1: Flight Deals) for Day 39.
+
+Topics reviewed:
+- Sheety API (for interacting w/Google Sheets)
+- Amadeus API (flight info)
+- requests module
+- JSON
+- OAuth2 (token authentication)
+
+Project worked on:
+- Flight Deals
+
+**Thoughts**: I fixed the error that I was getting on the Amadeus API when I tried to request an access token. It turns out my issue was that I had tried sending my POST request with the parameters included with the params=parameters or json=parameters, but what I needed to do was use data=parameters. Once I made that change, I was able to get the access token and use the token to get the IATA city codes. I was then able to create a function to use the Sheetly API to update the rows in my Google Sheet with the IATA codes. The next step is going to be searching for the flight deals.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-46/FlightDeals
