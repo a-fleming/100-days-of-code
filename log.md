@@ -958,3 +958,23 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-46/FlightDeals
+
+
+### Day 47: July 18, 2024 - Thursday
+
+**Today's Progress**: Continued on capstone project (Part 1: Flight Deals) for Day 39.
+
+Topics reviewed:
+- Sheety API (for interacting w/Google Sheets)
+- Amadeus API (flight info)
+- requests module
+- JSON
+- OAuth2 (token authentication)
+
+Project worked on:
+- Flight Deals
+
+**Thoughts**: Didn't get too much time to work on it. I was just able to start looking into the Flight Search API that I will use to search for future flights that cost less than the lowest price seen. I found most of the paramaters needed, but I need to figure out the best way to search for multiple airports and multiple days. I think the airports I will have to search individually, but I am hoping I can have it search for a time range that includes tomorrow through the next six months. Having to search for each of those ~183 days individually seems tedious and like a lot of API calls (not sure if Amadeus has a limit).
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-47/FlightDeals
