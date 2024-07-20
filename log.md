@@ -999,3 +999,24 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-48/FlightDeals
+
+
+### Day 49: July 20, 2024 - Saturday
+
+**Today's Progress**: Completed the capstone project (Part 1: Flight Deals) and the lessons for Day 39.
+
+Topics reviewed:
+- Sheety API (for interacting w/Google Sheets)
+- Amadeus API (flight info)
+- requests module
+- JSON
+- File I/O
+- smtplib
+
+Project completed:
+- Flight Deals
+
+**Thoughts**: Finally finished the Flight Deals project. I'm proud that I was able to do it without using any of the provided solutions. I used smtplib to send a notification email instead of an SMS since I would need to pay to use Twilio (and I don't want to do that). I also made another function in my helper module that allows me to send an email by providing the to address, subject, and message body (as a list of the lines of the email). I did this because I didn't want to have to keep looking redoing the email sending process every time I need to send an email from my test gmail account.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-49/FlightDeals
