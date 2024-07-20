@@ -978,3 +978,24 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-47/FlightDeals
+
+
+### Day 48: July 19, 2024 - Friday
+
+**Today's Progress**: Continued on capstone project (Part 1: Flight Deals) for Day 39.
+
+Topics reviewed:
+- Sheety API (for interacting w/Google Sheets)
+- Amadeus API (flight info)
+- requests module
+- JSON
+- File I/O
+- datetime.timedelta
+
+Project worked on:
+- Flight Deals
+
+**Thoughts**: Made a lot more progress this morning. I was able to put together the API call to Amadeus that searches for the cheapest flights over the next 183 days (approximately 6 months) for a given destination IATA code. Sometimes there are multiple flights for the same price, and sometimes flights are to different airports near the destination city. I also made a function that uses the Sheetly API to update the Google Doc with the new lowest price seen for a given destination. I just need to finish the function that actually sends the low price alert (I will use smtplib to send an email instead of sending an SMS), and then to combine the various functions together and have them run for all of the destination IATA codes.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-48/FlightDeals
