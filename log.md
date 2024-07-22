@@ -1020,3 +1020,23 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-49/FlightDeals
+
+
+### Day 50: July 21, 2024 - Sunday
+
+**Today's Progress**: Started the capstone project (Part 2: Flight Club) and went through the lessons for Day 40. Also started the lessons on the internet and HTML for Day 41.
+
+Topics reviewed:
+- Sheety API (for interacting w/Google Sheets)
+- requests module
+- JSON
+- File I/O
+- HTML
+
+Project worked on:
+- Flight Club
+
+**Thoughts**: I started working on Part 2 of the capstone project (Flight Club), but realized there isn't much new coding functionality, and it is just using a Google Form and then making some more API calls to the Amadeus API. I didn't particularly enjoy working with the Amadeus API because I feel it is pretty poorly documented. Also, the limit on the API calls you can make with Sheetly makes it tough to test code because I didn't want to run out of available calls in the middle of the project. Because of these, I am going to skip Part 2 of the Capstone and move on to the next lessons. I started going through the HTML lessons, and it reminded me of learning it back in my Web and Internet Programming class. I'm interested to see how we can use Python in regard to web programming.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-50/FlightDeals
