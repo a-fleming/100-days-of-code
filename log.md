@@ -1040,3 +1040,23 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-50/FlightDeals
+
+
+### Day 51: July 22, 2024 - Monday
+
+**Today's Progress**: Completed the lessons and projects for Day 41 (Movie Ranking website) and Day 42 (Birthday Invitation website).
+
+Topics reviewed:
+- HTML basics
+- Elements (<h1> to <h6>, <p>, <a>, <ul>, <ol>, <li>)
+- Void elements (<br />, <hr />, <img />)
+
+Projects completed:
+- Movie Ranking website
+- Birthday Invitation website
+
+**Thoughts**: The HTML lessons so far have been very easy, but they have been a good review of concepts I haven't used in quite some time. I am a bit surprised though that there are several days of lessons and projects dedicated strictly to HTML and CSS, without any use of Python.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-51/MovieRanking
+2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-51/BirthdayInvitation
