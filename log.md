@@ -1060,3 +1060,22 @@ Projects completed:
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-51/MovieRanking
 2. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-51/BirthdayInvitation
+
+
+### Day 52: July 23, 2024 - Tuesday
+
+**Today's Progress**: Completed the lessons and project (Color Vocab website) for Day 43.
+
+Topics reviewed:
+- CSS basics
+- Inline, internal, and external styling
+- CSS selectors
+- HTML Elements (<style>, <link>)
+
+Project completed:
+- Color Vocab website
+
+**Thoughts**: Good review of the basics of CSS, and some simple examples to test learning of the concepts. The project was really easy and just consisted of creating an external style sheet and adding a few different types of styling.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-52/ColorVocab
