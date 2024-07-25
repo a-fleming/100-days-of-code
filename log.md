@@ -1079,3 +1079,22 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-52/ColorVocab
+
+
+### Day 53: July 24, 2024 - Wednesday
+
+**Today's Progress**: Completed the lessons and project (Motivational Poster website) for Day 44.
+
+Topics reviewed:
+- Additional CSS (colors, font properties)
+- Chrome Developer Tools (CSS Inspection)
+- CSS Box Model
+- HTML <div> element
+
+Project completed:
+- Motivational Poster website
+
+**Thoughts**: I don't remember learning the CSS Box Model back in college, so it was nice to learn in the lesson and then get some practice using it in the lesson exercise and the project.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-53/MotivationalPoster
