@@ -1098,3 +1098,24 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-53/MotivationalPoster
+
+
+### Day 54: July 25, 2024 - Thursday
+
+**Today's Progress**: Completed the lessons and project (Greatest Movies) for Day 45.
+
+Topics reviewed:
+- Chrome Developer Tools
+- Web scraping
+- BeautifulSoup module
+- Character encoding (UTF-8, ISO-8859-1)
+- List comprehension
+- File I/O
+
+Project completed:
+- Greatest Movies
+
+**Thoughts**: I really enjoyed the lessons on web scraping. There have been several ocassions where I have used the Chrome Developer Tools to inspect the HTML of a webpage to find or remove a particular element, so that experience really came in handy here. The BeautifulSoup module was fairly easy to use considering how robust it is. I am excited to use it more in the future.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-54/GreatestMovies
