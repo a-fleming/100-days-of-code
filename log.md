@@ -1119,3 +1119,24 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-54/GreatestMovies
+
+
+### Day 55: July 26, 2024 - Friday
+
+**Today's Progress**: Started the lessons and project (Music Time Machine) for Day 46.
+
+Topics reviewed:
+- Chrome Developer Tools
+- Web scraping
+- requests module
+- BeautifulSoup module
+- datetime module
+- Exception handling
+
+Project worked on:
+- Musical Time Machine
+
+**Thoughts**: It was fun using BeautifulSoup to scrape the Billboard Top 100 website. Once I got into the HTML source code it as pretty straightforward to figure out how to grab the relevant information for each song. It will be interesting to see how the Spotify API works tomorrow.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-55/MusicTimeMachine
