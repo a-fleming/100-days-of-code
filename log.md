@@ -1123,7 +1123,7 @@ Project completed:
 
 ### Day 55: July 26, 2024 - Friday
 
-**Today's Progress**: Started the lessons and project (Music Time Machine) for Day 46.
+**Today's Progress**: Completed the lessons and project (Musical Time Machine) for Day 46.
 
 Topics reviewed:
 - Chrome Developer Tools
@@ -1140,3 +1140,22 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-55/MusicTimeMachine
+
+
+### Day 56: July 27, 2024 - Saturday
+
+**Today's Progress**: Completed the lessons and project (Musical Time Machine) for Day 46.
+
+Topics reviewed:
+- Spotify Web API
+- OAuth 2.0
+- spotipy module
+- Exception handling
+
+Project completed:
+- Musical Time Machine
+
+**Thoughts**: The Spotify Web API definitely wasn't the easiest to work with. The spotipy module definitely helped because it handled the OAuth authentication portion of interacting with the Spotify Web API. After a bit of searching through the documentation, I was able to figure out how to search for the ID for songs, create a playlist, and then add songs to the playlist. This took care of most of the functionality, but then there was a lot of smoothing things out and handling, because sometimes Spotify isn't able to find a song given the name and artist pulled directly from the Billboard Top 100. There is definitely more that could be done to polish the project or add extra features, but I think I am done with it for now.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-56/MusicTimeMachine
