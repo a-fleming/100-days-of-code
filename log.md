@@ -1159,3 +1159,22 @@ Project completed:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-56/MusicTimeMachine
+
+
+### Day 57: July 28, 2024 - Sunday
+
+**Today's Progress**: Started the lessons and project (Amazon Price Tracker) for Day 47.
+
+Topics reviewed:
+- Web scraping
+- BeautifulSoup module
+- requests module
+- re module (regular expression)
+
+Project worked on:
+- Amazon Price Tracker
+
+**Thoughts**: I was able to scrape the necessary price information and product information from the sample site fairly easily. The element with the name had some weird formatting with lots of spaces and \r and \n characters, so I did quite a bit of work trying to strip all of the unnecessary characters from it. Creating the email to alert when the price is below a threshold should be pretty easy. The scraping of the live Amazon website will probably be the trickiest part when I get to it.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-57/AmazonPriceTracker
