@@ -1178,3 +1178,24 @@ Project worked on:
 
 **Link(s) to work**
 1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-57/AmazonPriceTracker
+
+
+### Day 58: July 29, 2024 - Monday
+
+**Today's Progress**: Completed the lessons and project (Amazon Price Tracker) for Day 47.
+
+Topics reviewed:
+- Web scraping
+- BeautifulSoup module
+- requests module
+- HTTP headers
+- JSON
+- File I/O
+
+Project completed:
+- Amazon Price Tracker
+
+**Thoughts**: Switching from scraping the sample Amazon page to scraping the live Amazon page was easier than I expected. The elements stayed the same, so I just needed to add the header information and add the URL to the live site. After finishing the project, I extended the functionality so that I could track the price of multiple products and send a consolidated email for any products with a current price under their price thresholds. I did this by making a .json file that had the URL to the product along with the price for all the products I want to track. The program would read from the file and iterate over all the products doing the same price checking.
+
+**Link(s) to work**
+1. https://github.com/a-fleming/100-days-of-code_project-files/tree/main/day-58/AmazonPriceTracker
